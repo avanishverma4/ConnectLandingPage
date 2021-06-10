@@ -85,7 +85,7 @@ p {
 
 /*==== Section Title =====*/
 .section-title .title {
-  font-size: 44px;
+  font-size: 33px;
   font-weight: 500;
   color: #121212;
   line-height: 55px; }
@@ -1077,7 +1077,7 @@ p {
   .slider-area .bd-example .carousel .carousel-inner {
     background-color: #1c8f9a; }
     .slider-area .bd-example .carousel .carousel-inner .carousel-item {
-      height: 700px;
+      height: 500px;
       position: relative;
       top: 94px; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1293,7 +1293,7 @@ p {
   padding-top: -200px;
   padding-bottom: 80px; }
   .about-area .section-title .title {
-    font-size: 40px;
+    font-size: 33px;
     font-weight: 600;
     line-height: 125%;
     color: #121212; }
@@ -1306,7 +1306,7 @@ p {
         font-size: 28px;
         line-height: 38px; } }
   .about-area .section-title .text {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 150%;
     color: #121212;
     margin-top: 2.5%;
@@ -1314,7 +1314,7 @@ p {
     text-align: left;}
     @media (max-width: 767px) {
       .about-area .section-title .text {
-        font-size: 16px; } }
+        font-size: 14px; } }
 
 .single-about .about-icon img {
   width: 80px; }
@@ -1468,8 +1468,8 @@ p {
       20.CONTACT css 
 ===========================*/
 .contact-area {
-  padding-top: 80px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 25px;
   background-color: #e6e6e6; }
 
 .form-message.error, .form-message.success {
